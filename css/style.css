@@ -1,0 +1,49 @@
+.conteiner {
+    width: 850px;
+    height: 450px;
+    margin: auto;
+    justify-content: center;
+}
+
+.ficharios {
+    display: flex;
+    margin: auto;
+    margin-top: 5%;
+    flex-direction: row; 
+    text-align: center; 
+    font-size: 17px;
+}
+
+.f1 {
+    background-color: yellow;
+    border: solid 1px black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-right: 2px; 
+    width: 200px;
+}
+
+.f2 {
+    background-color: yellow;
+    border: solid 1px black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-right: 2px; 
+    width: 200px;
+}
+
+.f3 {
+    background-color: yellow;
+    border: solid 1px black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-right: 2px; 
+    width: 200px;
+}
+
+.caixa {
+    width: 850px;
+    height: 450px;
+    background-color: yellow;
+    border: solid 1px black;    
+}
